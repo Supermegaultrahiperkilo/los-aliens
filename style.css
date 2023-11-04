@@ -1,0 +1,14 @@
+body{
+    background: blue;
+    color: lime;
+}
+.header_div{
+    background: red;
+}
+.copy_right_footer{
+    position: fixed;
+    color: gold;
+    bottom: 0;
+    text-align: center;
+width: 100%;
+}
